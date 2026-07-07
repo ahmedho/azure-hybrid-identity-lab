@@ -17,7 +17,7 @@ Conditional Access — built as part of my AZ-104 exam preparation.
 ## 🗺️ Progress
 - [x] Day 1: Management Group hierarchy
 - [x] Day 2: Resource Groups & naming convention
-- [ ] Day 3: On-prem AD DS VM
+- [x] Day 3: On-prem AD DS VM
 - [ ] Day 4: OUs & test users
 - [ ] Day 5: Microsoft Entra Connect
 - [ ] Day 6: Sync verification
