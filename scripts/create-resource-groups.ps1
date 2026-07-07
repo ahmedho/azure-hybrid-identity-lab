@@ -1,7 +1,7 @@
 # create-resource-groups.ps1
 # Creates the core Resource Groups for the Hybrid Identity Lab with consistent tagging and naming conventions.
 
-$location = "westeurope"
+$location = "switzerlandnorth"
 $resourceGroups = @(
     @{ Name = "rg-identity";    Environment = "production"},
     @{ Name = "rg-monitoring";  Environment = "production"},

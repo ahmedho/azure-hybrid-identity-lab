@@ -15,8 +15,8 @@ Examples used in this lab:
 | Resource | Name |
 |---|---|
 | Resource Group | `rg-identity` |
-| Virtual Machine | `vm-addc-prod-we-01` |
-| Virtual Network | `vnet-identity-prod-we-01` |
+| Virtual Machine | `vm-addc-prod-chn-01` |
+| Virtual Network | `vnet-identity-prod-chn-01` |
 
 ## Why it matters
 A consistent naming convention makes resources identifiable at a glance — 
