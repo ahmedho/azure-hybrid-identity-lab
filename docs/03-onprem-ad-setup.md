@@ -58,7 +58,7 @@ then promoted it to a Domain Controller for a new forest.
 |---|---|
 | VM Name | `vm-addc-prod-chn-01` |
 | Region | Switzerland North (required by Azure Student subscription) |
-| VM Size | Standard_B1s (1 vCPU, 1 GB RAM) |
+| VM Size | Standard B2ats v2 (2 vCPU, 1 GB RAM) |
 | OS | Windows Server 2022 Datacenter Azure Edition |
 | Forest Root Domain | `ahmed-lab.local` |
 | NetBIOS Name | `AHMED-LAB` |
