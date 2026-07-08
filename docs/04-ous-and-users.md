@@ -6,6 +6,7 @@ reusable PowerShell script, rather than creating them manually through
 the GUI.
 
 ## OU Structure
+```text
 ahmed-lab.local
 ├── OU=Sales
 ├── OU=IT
