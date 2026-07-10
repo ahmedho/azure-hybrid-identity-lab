@@ -1,0 +1,19 @@
+{
+    "Name": "junior-security-reader-role",
+    "IsCustom": true,
+    "Description": "Can read most resources and security-related data, but cannot read secrets/keys or make any changes.",
+    "Actions": [
+        "*/read"
+    ],
+    "NotActions": [
+        "Microsoft.KeyVault/vaults/secrets/*",
+        "Microsoft.KeyVault/vaults/keys/*",
+        "Microsoft.Storage/storageAccounts/listKeys/action"
+    ],
+    "DataActions": [],
+    "NotDataActions": [],
+    "AssignableScopes": [
+        "/subscriptions/<YOUR-SUBSCRIPTION-ID>/resourceGroups/rg-identity",
+        "/subscriptions/<YOUR-SUBSCRIPTION-ID>/resourceGroups/rg-monitoring"
+    ]
+}
