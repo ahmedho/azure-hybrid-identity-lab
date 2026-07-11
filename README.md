@@ -22,7 +22,7 @@ Conditional Access — built as part of my AZ-104 exam preparation.
 - [x] Day 5: Microsoft Entra Connect
 - [x] Day 6: Sync verification
 - [x] Day 7: RBAC custom roles
-- [ ] Day 8: Least privilege testing
+- [x] Day 8: Least privilege testing
 - [ ] Day 9: Azure Policy (cost & tagging)
 - [ ] Day 10: Diagnostic settings & compliance
 - [ ] Day 11: Conditional Access (MFA)
