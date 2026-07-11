@@ -1,4 +1,4 @@
-# Day 8: Least Privilege Testing
+# Step 8: Least Privilege Testing
 
 ## What I did
 Logged in as the `rbactestuser` cloud-native test account (assigned the 

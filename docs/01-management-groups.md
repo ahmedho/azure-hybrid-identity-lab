@@ -1,4 +1,4 @@
-# Day 1: Management Group Hierarchy
+# Step 1: Management Group Hierarchy
 
 ## What I built
 Created a Management Group hierarchy:

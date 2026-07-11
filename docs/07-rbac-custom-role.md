@@ -1,4 +1,4 @@
-# Day 7: RBAC Custom Role Design
+# Step 7: RBAC Custom Role Design
 
 ## What I built
 Explored Azure's built-in role hierarchy, then designed and deployed a 

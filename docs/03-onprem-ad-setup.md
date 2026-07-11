@@ -1,4 +1,4 @@
-# Day 3: On-Premises AD DS VM Setup
+# Step 3: On-Premises AD DS VM Setup
 
 ## What I built
 Deployed a Windows Server 2022 VM (Standard B2ats v2) in `rg-identity` to 

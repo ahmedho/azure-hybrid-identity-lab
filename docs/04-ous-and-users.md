@@ -1,4 +1,4 @@
-# Day 4: Organizational Units & Test Users
+# Step 4: Organizational Units & Test Users
 
 ## What I built
 Created a nested OU structure and populated it with 6 test users via a 

@@ -1,4 +1,4 @@
-# Day 5: Microsoft Entra Connect Installation
+# Step 5: Microsoft Entra Connect Installation
 
 ## What I built
 Installed Microsoft Entra Connect on the domain controller VM and 

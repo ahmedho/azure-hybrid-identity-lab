@@ -15,15 +15,15 @@ Conditional Access — built as part of my AZ-104 exam preparation.
 - `diagrams/` – architecture diagrams
 
 ## 🗺️ Progress
-- [x] Day 1: Management Group hierarchy
-- [x] Day 2: Resource Groups & naming convention
-- [x] Day 3: On-prem AD DS VM
-- [x] Day 4: OUs & test users
-- [x] Day 5: Microsoft Entra Connect
-- [x] Day 6: Sync verification
-- [x] Day 7: RBAC custom roles
-- [x] Day 8: Least privilege testing
-- [ ] Day 9: Azure Policy (cost & tagging)
-- [ ] Day 10: Diagnostic settings & compliance
-- [ ] Day 11: Conditional Access (MFA)
-- [ ] Day 12: Conditional Access (location) & wrap-up
+- [x] Step 1: Management Group hierarchy
+- [x] Step 2: Resource Groups & naming convention
+- [x] Step 3: On-prem AD DS VM
+- [x] Step 4: OUs & test users
+- [x] Step 5: Microsoft Entra Connect
+- [x] Step 6: Sync verification
+- [x] Step 7: RBAC custom roles
+- [x] Step 8: Least privilege testing
+- [ ] Step 9: Azure Policy (cost & tagging)
+- [ ] Step 10: Diagnostic settings & compliance
+- [ ] Step 11: Conditional Access (MFA)
+- [ ] Step 12: Conditional Access (location) & wrap-up

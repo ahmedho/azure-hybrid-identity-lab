@@ -1,4 +1,4 @@
-# Day 2: Resource Groups & Naming Convention
+# Step 2: Resource Groups & Naming Convention
 
 ## What I built
 Created three Resource Groups using both the Azure Portal and a reusable 

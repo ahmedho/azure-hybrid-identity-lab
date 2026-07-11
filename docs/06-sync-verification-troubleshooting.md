@@ -1,4 +1,4 @@
-# Day 6: Sync Verification & Troubleshooting
+# Step 6: Sync Verification & Troubleshooting
 
 ## What I did
 Went beyond basic sync verification to explore sync cycle internals, 
