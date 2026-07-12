@@ -23,7 +23,7 @@ Conditional Access — built as part of my AZ-104 exam preparation.
 - [x] Step 6: Sync verification
 - [x] Step 7: RBAC custom roles
 - [x] Step 8: Least privilege testing
-- [ ] Step 9: Azure Policy (cost & tagging)
-- [ ] Step 10: Diagnostic settings & compliance
+- [x] Step 9: Azure Policy (cost & tagging)
+- [x] Step 10: Diagnostic settings & compliance
 - [ ] Step 11: Conditional Access (MFA)
 - [ ] Step 12: Conditional Access (location) & wrap-up
